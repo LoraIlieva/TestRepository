@@ -12,7 +12,6 @@ public class Greeting {
 	public void greetItalian()
 	{
 		System.out.println("Ciao");
-	}
-	
+	}	
 
 }
