@@ -7,14 +7,14 @@ public class Greeting {
 		gr.greetItalian();
 	}
 	public void greetEnglish(){
-		System.out.println("Hi");
+		System.out.println("HI");
 	}
 	public void greetItalian()
 	{
-		System.out.println("Ciao");
+		System.out.println("CIAO");
 	}	
 	public void greetSpanish()
 	{
-		System.out.println("Hola");
+		System.out.println("HOLA");
 	}
 }
